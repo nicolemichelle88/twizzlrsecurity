@@ -1,5 +1,5 @@
-#Installing
+## Installing
 npm install
 
-#Running
+## Running
 node app.js
