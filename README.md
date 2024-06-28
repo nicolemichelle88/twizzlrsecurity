@@ -1,5 +1,5 @@
 ## Installing
-npm install
+```npm install```
 
 ## Running
-node app.js
+```node app.js```
